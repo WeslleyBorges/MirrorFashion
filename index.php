@@ -18,7 +18,7 @@
 					<li><a href="#">Sua conta</a></li>
 					<li><a href="#">Lista de desejos</a></li>
 					<li><a href="#">Cartão fidelidade</a></li>
-					<li><a href="sobre.html">Sobre</a></li>
+					<li><a href="sobre.php">Sobre</a></li>
 					<li><a href="#">Ajuda</a></li>
 				</ul>				
 			</nav>
@@ -176,5 +176,18 @@
 				</ol>
 			</section>
 		</div>
+
+		<footer>
+			<div class="container">
+				<img src="img/logo.png" alt="Logo Mirror Fashion">
+				<ul class="social">
+					<li><a id="fb" href="http://facebook.com/mirrorfashion">Facebook</a></li>
+
+					<li><a id="twitter" href="http://twitter.com/mirrorfashion">Twitter</a></li>
+
+					<li><a id="googleplus" href="http://plus.google.com/mirrorfashion">Google+</a></li>
+				</ul>
+			</div>
+		</footer>
 	</body>
 </html>
