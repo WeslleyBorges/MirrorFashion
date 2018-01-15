@@ -16,7 +16,7 @@
 			<nav class="menu-opcoes">
 				<ul>
 					<li><a href="#">Sua conta</a></li>
-					<li><a href="#">Lista de desejos</a></li>
+					<li><a href="produto.php">Lista de desejos</a></li>
 					<li><a href="#">Cartão fidelidade</a></li>
 					<li><a href="sobre.php">Sobre</a></li>
 					<li><a href="#">Ajuda</a></li>
